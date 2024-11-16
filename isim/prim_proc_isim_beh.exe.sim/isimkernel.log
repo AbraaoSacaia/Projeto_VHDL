@@ -1,0 +1,10 @@
+Command line:
+   prim_proc_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57853
+
+Fri Oct 18 15:07:28 2024
+
+
+ Elaboration Time: 0.04 sec

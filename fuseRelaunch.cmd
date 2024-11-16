@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/projeto1/prim_proc_isim_beh.exe" -prj "/home/ise/projeto1/prim_proc_beh.prj" "work.prim_proc" 

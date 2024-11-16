@@ -1,0 +1,19 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/ise/projeto1/prim_proc_isim_beh.exe -prj /home/ise/projeto1/prim_proc_beh.prj work.prim_proc 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/projeto1/projeto1.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 95296 KB
+Fuse CPU Usage: 1080 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling architecture prim_proc of entity prim_proc
+Time Resolution for simulation is 1ps.
+Compiled 3 VHDL Units
+Built simulation executable /home/ise/projeto1/prim_proc_isim_beh.exe
+Fuse Memory Usage: 103900 KB
+Fuse CPU Usage: 1100 ms
+GCC CPU Usage: 120 ms
